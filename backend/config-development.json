@@ -1,18 +1,22 @@
 {
   "database": {
-    "name": "",
-    "username": "",
-    "password": "",
-    "host": "", 
+    "name": "shine-lab-mme",
+    "username": "root",
+    "password": "amandahernandez",
+    "host": "localhost", 
     "port": "3306",
     "dialect": "mysql"
   },
   "adminCredentials": [
     {
-      "username": "",
-      "password": ""
+      "username": "Amanda",
+      "password": "none"
+    },
+    {
+      "username": "James",
+      "password": "none"
     }
   ],
-  "secret": "",
-  "secretUser": ""
+  "secret": "amanda",
+  "secretUser": "amanda"
 }
